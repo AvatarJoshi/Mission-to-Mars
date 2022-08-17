@@ -1,3 +1,7 @@
+# Additional ignores
+.DS_Store
+Practice
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
