@@ -169,8 +169,9 @@ def hemispheres(browser):
         browser.back()
 
     # Return the data
-    return(hemisphere)
+    return(hemisphere_data)
 
 if __name__ == "__main__":
     # If running as script, print scraped data
     print(scrape_all())
+
