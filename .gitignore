@@ -1,6 +1,8 @@
 # Additional ignores
 .DS_Store
 Practice
+Mission_to_Mars_Challenge_starter_code.ipynb
+Mission_to_Mars.ipynb
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
